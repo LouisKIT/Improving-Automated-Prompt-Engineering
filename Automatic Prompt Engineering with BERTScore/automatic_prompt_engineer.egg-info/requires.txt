@@ -1,0 +1,5 @@
+numpy
+openai
+fire
+tqdm
+gradio
