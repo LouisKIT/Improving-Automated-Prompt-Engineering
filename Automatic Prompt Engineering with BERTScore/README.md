@@ -15,7 +15,7 @@ Prompt Engineering has been proven to consistently improve task performance of c
 
 ## Installation
 
-```
+
 Download the repo and add your OPENAI_API_KEY with the following command:
 
 ```
