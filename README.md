@@ -6,7 +6,9 @@
 
 
 
-This repo contains the code for our research. It is based on the open-source repo by these great people [Automatic Prompt Engineer](https://github.com/keirp/automatic_prompt_engineer)
+This repo contains the code for our research. It is based on the open-source repo by these great people 
+
+[Automatic Prompt Engineer](https://github.com/keirp/automatic_prompt_engineer)
 
 Please see our paper for more details and results.
 
