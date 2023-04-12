@@ -1,6 +1,6 @@
 # An Evaluation of Automatic Prompt Engineering on Open-Access Large Language Models and the BERTScore as an intermediate scoring metric
 
-### By Vincent Strobel & Louis Karsch
+## By Vincent Strobel & Louis Karsch
 
 
 
